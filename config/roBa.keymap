@@ -26,14 +26,14 @@
             key-positions = <12 13>;
         };
 
-        muhennkann {
-            bindings = <&to_layer_0 INT_MUHENKAN>;
-            key-positions = <11 10>;
+        Toggle_Scroll {
+            bindings = <&tog 5>;
+            key-positions = <31 32>;
         };
 
         double_quotation {
-            bindings = <&kp DOUBLE_QUOTES>;
-            key-positions = <20 21>;
+            bindings = <&kp BACKSPACE>;
+            key-positions = <8 9>;
         };
 
         eq {
