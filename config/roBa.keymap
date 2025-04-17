@@ -75,7 +75,7 @@
 &kp Q             &kp W           &kp F        &kp P                    &kp B                                                 &kp J            &kp L              &lt 5 U      &kp Y            &mt DOUBLE_QUOTES SQT
 &mt LEFT_GUI A    &mt LEFT_ALT R  &mt LCTRL S  &mt LEFT_SHIFT T         &kp G        &kp LS(LG(S))             &kp MINUS      &kp M            &mt RIGHT_SHIFT N  &mt RCTRL E  &mt RIGHT_ALT I  &mt LEFT_GUI O
 &mt LEFT_SHIFT Z  &kp X           &kp C        &kp D                    &kp V        &kp COLON                 &kp SEMICOLON  &kp K            &kp H              &kp COMMA    &kp DOT          &mt QUESTION SLASH
-&mkp MB3          &mkp MB1        &mkp MB2     &lt_to_layer_0 6 ESCAPE  &lt 3 SPACE  &lt_to_layer_0 2 TAB      &lt 3 ENTER    &lt 2 BACKSPACE                                                   &lt 1 DEL
+&mkp MB3          &mkp MB1        &mkp MB2     &lt_to_layer_0 6 ESCAPE  &lt 3 SPACE  &lt_to_layer_0 2 TAB      &lt 1 ENTER    &lt 2 BACKSPACE                                                   &lt 1 DEL
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
